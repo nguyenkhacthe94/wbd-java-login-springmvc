@@ -1,0 +1,16 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: Himedere
+  Date: 5/24/2018
+  Time: 10:42 AM
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>Error</title>
+</head>
+<body>
+<h1>Invalid Account or Password</h1>
+</body>
+</html>
